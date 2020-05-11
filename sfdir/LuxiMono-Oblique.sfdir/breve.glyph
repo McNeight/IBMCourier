@@ -1,0 +1,18 @@
+StartChar: breve
+Encoding: 346 728 288
+Width: 600
+Flags: MW
+HStem: 629 69<410.5 469.5 410.5 474>
+LayerCount: 2
+Fore
+SplineSet
+286 771 m 1
+ 346 771 l 1
+ 352 720 381 698 440 698 c 0
+ 499 698 537 720 563 771 c 1
+ 623 771 l 1
+ 578 671 520 629 428 629 c 0
+ 378 629 342 642 318 669 c 0x80
+ 296 693 288 719 286 771 c 1
+EndSplineSet
+EndChar

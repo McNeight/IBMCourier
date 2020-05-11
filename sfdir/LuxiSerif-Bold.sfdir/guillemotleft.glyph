@@ -1,0 +1,23 @@
+StartChar: guillemotleft
+Encoding: 171 171 237
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+259 452 m 1
+ 152 268 l 1
+ 259 84 l 1
+ 222 54 l 1
+ 5 268 l 1
+ 222 482 l 1
+ 259 452 l 1
+488 452 m 1
+ 380 268 l 1
+ 487 86 l 1
+ 450 59 l 1
+ 234 268 l 1
+ 451 480 l 1
+ 488 452 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,15 @@
+StartChar: sfthyphen
+Encoding: 173 173 242
+Width: 600
+Flags: MW
+HStem: 253 97<123 598 142 578>
+LayerCount: 2
+Fore
+SplineSet
+123 253 m 1
+ 142 350 l 1
+ 598 350 l 1
+ 578 253 l 1
+ 123 253 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,26 @@
+StartChar: Yacute
+Encoding: 221 221 48
+Width: 667
+Flags: MW
+HStem: 0 20 703 20<14 181 181 181 535 654 654 654>
+VStem: 254 150<0 303 303 303>
+LayerCount: 2
+Fore
+SplineSet
+254 0 m 1
+ 254 303 l 1
+ 14 723 l 1
+ 181 723 l 1
+ 353 418 l 1
+ 535 723 l 1
+ 654 723 l 1
+ 404 304 l 1
+ 404 0 l 1
+ 254 0 l 1
+264 783 m 1
+ 382 940 l 1
+ 514 940 l 1
+ 358 783 l 1
+ 264 783 l 1
+EndSplineSet
+EndChar

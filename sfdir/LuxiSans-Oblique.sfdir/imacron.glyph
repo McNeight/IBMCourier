@@ -1,0 +1,20 @@
+StartChar: imacron
+Encoding: 320 299 120
+Width: 222
+Flags: MW
+HStem: 0 20 510 20<169 266 266 266> 627 72<80 408 94 393>
+LayerCount: 2
+Fore
+SplineSet
+63 0 m 1
+ 169 530 l 1
+ 266 530 l 1
+ 159 0 l 1xc0
+ 63 0 l 1
+80 627 m 1
+ 94 699 l 1
+ 408 699 l 1
+ 393 627 l 1x20
+ 80 627 l 1
+EndSplineSet
+EndChar

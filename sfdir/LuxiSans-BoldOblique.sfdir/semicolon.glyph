@@ -1,0 +1,24 @@
+StartChar: semicolon
+Encoding: 59 59 227
+Width: 333
+Flags: MW
+HStem: 0 20 391 145<172 346 202 317>
+LayerCount: 2
+Fore
+SplineSet
+148 0 m 1
+ 94 0 l 1
+ 123 145 l 1
+ 268 145 l 1
+ 246 36 l 2
+ 221 -84 161 -147 63 -156 c 1
+ 74 -102 l 1
+ 112 -92 136 -62 146 -15 c 2
+ 148 0 l 1
+172 391 m 1
+ 202 536 l 1
+ 346 536 l 1
+ 317 391 l 1
+ 172 391 l 1
+EndSplineSet
+EndChar

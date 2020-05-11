@@ -1,0 +1,20 @@
+StartChar: Idotaccent
+Encoding: 265 304 24
+Width: 278
+Flags: MW
+HStem: 0 20 703 20<208 358 358 358> 783 145<223 396 251 367>
+LayerCount: 2
+Fore
+SplineSet
+63 0 m 1
+ 208 723 l 1
+ 358 723 l 1
+ 213 0 l 1
+ 63 0 l 1
+223 783 m 1
+ 251 928 l 1
+ 396 928 l 1
+ 367 783 l 1
+ 223 783 l 1
+EndSplineSet
+EndChar

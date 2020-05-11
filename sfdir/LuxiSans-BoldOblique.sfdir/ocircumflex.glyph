@@ -1,0 +1,31 @@
+StartChar: ocircumflex
+Encoding: 244 244 98
+Width: 611
+Flags: MW
+HStem: -12 90<297 369 297 400.5> 458 90<359 431.5>
+VStem: 88 153<157 268 157 300> 488 153<267.5 378>
+LayerCount: 2
+Fore
+SplineSet
+422 548 m 0
+ 562 548 641 471 641 334 c 0
+ 641 137 496 -12 305 -12 c 0
+ 168 -12 88 66 88 202 c 0xf0
+ 88 398 233 548 422 548 c 0
+403 458 m 0
+ 315 458 241 339 241 197 c 0
+ 241 117 269 78 325 78 c 0
+ 413 78 488 197 488 338 c 0
+ 488 418 460 458 403 458 c 0
+252 626 m 1
+ 400 783 l 1
+ 534 783 l 1
+ 620 626 l 1
+ 533 626 l 1
+ 456 722 l 1
+ 455 722 l 1
+ 339 626 l 1
+ 252 626 l 1
+EndSplineSet
+Kerns2: 185 -3 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

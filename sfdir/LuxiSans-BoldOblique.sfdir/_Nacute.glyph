@@ -1,0 +1,26 @@
+StartChar: Nacute
+Encoding: 268 323 27
+Width: 722
+Flags: MW
+HStem: 0 20 703 20<229 361 361 361 662 782 782 782>
+LayerCount: 2
+Fore
+SplineSet
+84 0 m 1
+ 229 723 l 1
+ 361 723 l 1
+ 563 229 l 1
+ 662 723 l 1
+ 782 723 l 1
+ 637 0 l 1
+ 503 0 l 1
+ 303 494 l 1
+ 205 0 l 1
+ 84 0 l 1
+449 789 m 1
+ 598 946 l 1
+ 730 946 l 1
+ 542 789 l 1
+ 449 789 l 1
+EndSplineSet
+EndChar

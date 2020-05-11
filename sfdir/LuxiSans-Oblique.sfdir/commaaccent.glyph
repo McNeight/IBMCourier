@@ -1,0 +1,20 @@
+StartChar: commaaccent
+Encoding: 350 -1 294
+Width: 333
+Flags: MW
+HStem: -211 42<91.5 116.5 90 137>
+VStem: 157 67<-143.5 -119.5>
+LayerCount: 2
+Fore
+SplineSet
+42 -206 m 1
+ 50 -164 l 1
+ 67 -167 83 -169 97 -169 c 0
+ 136 -169 157 -156 157 -131 c 0
+ 157 -108 137 -96 89 -92 c 1
+ 96 -54 l 1
+ 185 -56 224 -77 224 -124 c 0
+ 224 -175 173 -211 101 -211 c 0xc0
+ 82 -211 63 -209 42 -206 c 1
+EndSplineSet
+EndChar

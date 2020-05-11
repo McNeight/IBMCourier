@@ -1,0 +1,26 @@
+StartChar: Zdotaccent
+Encoding: 280 379 51
+Width: 611
+Flags: MW
+HStem: 0 83<49 66 66 66 189 560> 646 77<217 566 202 705 690 690> 783 96<419 534 438 515>
+LayerCount: 2
+Fore
+SplineSet
+49 0 m 1
+ 66 83 l 1
+ 566 646 l 1
+ 202 646 l 1
+ 217 723 l 1
+ 705 723 l 1
+ 690 646 l 1
+ 189 83 l 1
+ 577 83 l 1
+ 560 0 l 1
+ 49 0 l 1
+419 783 m 1
+ 438 879 l 1
+ 534 879 l 1
+ 515 783 l 1
+ 419 783 l 1
+EndSplineSet
+EndChar

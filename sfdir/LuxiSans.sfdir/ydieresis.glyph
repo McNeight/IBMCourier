@@ -1,0 +1,30 @@
+StartChar: ydieresis
+Encoding: 255 255 116
+Width: 500
+Flags: MW
+HStem: 0 20 510 20<9 107 107 107 409 494 494 494> 627 84<119 203 119 203 312 396>
+VStem: 9 84 202 84
+LayerCount: 2
+Fore
+SplineSet
+197 0 m 1
+ 9 530 l 1
+ 107 530 l 1
+ 251 123 l 1
+ 409 530 l 1
+ 494 530 l 1
+ 214 -193 l 1
+ 113 -193 l 1xc0
+ 197 0 l 1
+119 627 m 1
+ 119 711 l 1
+ 203 711 l 1
+ 203 627 l 1x38
+ 119 627 l 1
+312 627 m 1
+ 312 711 l 1
+ 396 711 l 1
+ 396 627 l 1
+ 312 627 l 1
+EndSplineSet
+EndChar

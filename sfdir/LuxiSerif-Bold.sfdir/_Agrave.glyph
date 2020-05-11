@@ -1,0 +1,48 @@
+StartChar: Agrave
+Encoding: 192 192 2
+Width: 722
+Flags: MW
+HStem: 0 20 220 48<203 430 203 450 182 430>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 45 l 1
+ 9 46 l 2
+ 35 48 55 63 68 93 c 2
+ 90 143 l 1
+ 338 729 l 1
+ 388 729 l 1
+ 637 142 l 2
+ 663 82 685 49 703 47 c 2
+ 716 46 l 1
+ 722 45 l 1
+ 722 0 l 1
+ 463 0 l 1
+ 463 45 l 1
+ 473 46 l 1
+ 489 47 l 2
+ 503 48 511 54 511 63 c 0
+ 511 71 507 82 497 109 c 2
+ 483 143 l 1
+ 450 220 l 1
+ 182 220 l 1
+ 149 142 l 2
+ 131 100 122 75 122 65 c 0
+ 122 54 130 48 147 47 c 2
+ 160 46 l 1
+ 168 45 l 1
+ 168 0 l 1
+ 0 0 l 1
+203 268 m 1
+ 430 268 l 1
+ 316 536 l 1
+ 203 268 l 1
+453 783 m 1
+ 388 783 l 1
+ 189 940 l 1
+ 335 940 l 1
+ 453 783 l 1
+EndSplineSet
+Kerns2: 222 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 226 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 157 -67 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 155 -92 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 154 -101 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 153 -44 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 152 -48 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 149 -45 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 147 -45 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 139 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 135 -46 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

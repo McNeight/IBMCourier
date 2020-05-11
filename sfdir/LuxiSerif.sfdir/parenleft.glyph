@@ -1,0 +1,17 @@
+StartChar: parenleft
+Encoding: 40 40 245
+Width: 333
+Flags: MW
+VStem: 57 96<215.5 410.5>
+LayerCount: 2
+Fore
+SplineSet
+283 -114 m 1
+ 283 -145 l 1
+ 140 -52 57 117 57 314 c 0
+ 57 507 143 680 283 771 c 1
+ 283 741 l 1
+ 183 624 153 527 153 313 c 0
+ 153 100 182 3 283 -114 c 1
+EndSplineSet
+EndChar

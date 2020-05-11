@@ -1,0 +1,64 @@
+SplineFontDB: 3.2
+FontName: LuxiSerif
+FullName: Luxi Serif Regular
+FamilyName: Luxi Serif
+Weight: Regular
+Copyright: Copyright Copyright (c) 2001 by Bigelow & Holmes Inc. Instructions copyright (c) 2001 by URW++.
+Version: 1.1000
+ItalicAngle: 0
+UnderlinePosition: -30
+UnderlineWidth: 60
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+UniqueID: 5078991
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1589168832
+ModificationTime: 1589168832
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
+DEI: 91125
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 64 32 8
+BeginPrivate: 7
+BlueValues 23 [-18 0 530 542 723 741]
+BlueScale 8 0.039625
+StdHW 4 [33]
+StdVW 4 [98]
+StemSnapH 194 [33 40 49 63] 
+systemdict /internaldict known
+{1183615869 systemdict /internaldict get exec
+/StemSnapLength 2 copy known { get 4 lt } { pop pop true } ifelse }
+{ true } ifelse { pop [33 40] } if
+StemSnapV 194 [98 104 113] 
+systemdict /internaldict known
+{1183615869 systemdict /internaldict get exec
+/StemSnapLength 2 copy known { get 3 lt } { pop pop true } ifelse }
+{ true } ifelse { pop [98 104] } if
+ForceBold 5 false
+EndPrivate
+EndSplineFont

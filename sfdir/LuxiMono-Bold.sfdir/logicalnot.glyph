@@ -1,0 +1,18 @@
+StartChar: logicalnot
+Encoding: 172 172 302
+Width: 600
+Flags: MW
+HStem: 253 97<42 545 42 449>
+VStem: 449 96<96 253 253 253>
+LayerCount: 2
+Fore
+SplineSet
+42 253 m 1
+ 42 350 l 1
+ 545 350 l 1
+ 545 96 l 1
+ 449 96 l 1
+ 449 253 l 1
+ 42 253 l 1
+EndSplineSet
+EndChar

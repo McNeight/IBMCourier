@@ -1,0 +1,21 @@
+StartChar: onesuperior
+Encoding: 185 185 219
+Width: 333
+Flags: MW
+HStem: 301 63<84 193 97 193 301 385> 721 20<377 377>
+LayerCount: 2
+Fore
+SplineSet
+84 301 m 1
+ 97 364 l 1
+ 193 364 l 1
+ 250 649 l 1
+ 149 625 l 1
+ 162 690 l 1
+ 377 741 l 1
+ 301 364 l 1
+ 398 364 l 1
+ 385 301 l 1
+ 84 301 l 1
+EndSplineSet
+EndChar

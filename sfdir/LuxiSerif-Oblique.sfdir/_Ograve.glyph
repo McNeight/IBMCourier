@@ -1,0 +1,31 @@
+StartChar: Ograve
+Encoding: 210 210 32
+Width: 722
+Flags: MW
+HStem: -18 33<313 399 313 414.5> 708 33<460.5 553>
+VStem: 101 105<169 291.5 162 321> 663 105<423.5 556 404.5 562>
+LayerCount: 2
+Fore
+SplineSet
+509 741 m 0
+ 675 741 768 643 768 469 c 0
+ 768 340 729 224 656 131 c 0
+ 577 32 476 -18 353 -18 c 0
+ 194 -18 101 83 101 255 c 0
+ 101 387 142 506 219 599 c 0
+ 298 694 394 741 509 741 c 0
+500 708 m 0
+ 421 708 353 660 294 563 c 0
+ 236 468 206 353 206 230 c 0
+ 206 94 263 15 363 15 c 0
+ 435 15 500 53 554 128 c 0
+ 624 224 663 355 663 492 c 0
+ 663 632 606 708 500 708 c 0
+594 783 m 1
+ 549 783 l 1
+ 381 940 l 1
+ 508 940 l 1
+ 594 783 l 1
+EndSplineSet
+Kerns2: 157 -57 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 154 -55 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 152 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

@@ -1,0 +1,22 @@
+StartChar: paragraph
+Encoding: 182 182 265
+Width: 537
+Flags: MW
+HStem: 663 60<308 380 308 308>
+VStem: 247 61<-144 362 362 362 -144 723> 380 60<-144 663 663 663>
+LayerCount: 2
+Fore
+SplineSet
+247 -144 m 1
+ 247 362 l 1
+ 114 374 42 445 42 564 c 0
+ 42 678 100 723 247 723 c 2
+ 440 723 l 1
+ 440 -144 l 1
+ 380 -144 l 1
+ 380 663 l 1
+ 308 663 l 1
+ 308 -144 l 1
+ 247 -144 l 1
+EndSplineSet
+EndChar

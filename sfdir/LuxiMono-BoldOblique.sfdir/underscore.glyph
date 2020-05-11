@@ -1,0 +1,15 @@
+StartChar: underscore
+Encoding: 95 95 306
+Width: 600
+Flags: MW
+HStem: -96 96<-19 600 0 581>
+LayerCount: 2
+Fore
+SplineSet
+-19 -96 m 1
+ 0 0 l 1
+ 600 0 l 1
+ 581 -96 l 1
+ -19 -96 l 1
+EndSplineSet
+EndChar

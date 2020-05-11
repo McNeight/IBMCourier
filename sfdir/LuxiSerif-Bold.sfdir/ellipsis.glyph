@@ -1,0 +1,26 @@
+StartChar: ellipsis
+Encoding: 133 8230 225
+Width: 1000
+Flags: MW
+HStem: 0 108<112 220 112 220 445 553 779 887>
+VStem: 112 108<0 108 0 108> 445 108<0 108 0 108> 779 108<0 108 0 108>
+LayerCount: 2
+Fore
+SplineSet
+112 0 m 1
+ 112 108 l 1
+ 220 108 l 1
+ 220 0 l 1
+ 112 0 l 1
+445 0 m 1
+ 445 108 l 1
+ 553 108 l 1
+ 553 0 l 1
+ 445 0 l 1
+779 0 m 1
+ 779 108 l 1
+ 887 108 l 1
+ 887 0 l 1
+ 779 0 l 1
+EndSplineSet
+EndChar

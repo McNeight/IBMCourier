@@ -1,0 +1,37 @@
+StartChar: three
+Encoding: 51 51 205
+Width: 500
+Flags: W
+HStem: -18 33<176 247.5 173.5 277> 708 33<185 243.5>
+VStem: 326 96<531.5 611.5> 342 102<135.5 220 131.5 247.5>
+LayerCount: 2
+Fore
+SplineSet
+45 5 m 1xd0
+ 45 132 l 1
+ 92 132 l 1
+ 93 122 l 1
+ 94 89 l 2
+ 96 44 141 15 206 15 c 0
+ 289 15 342 82 342 189 c 0xd0
+ 342 306 278 371 164 371 c 2
+ 111 371 l 1
+ 111 401 l 1
+ 143 401 l 2
+ 265 401 326 455 326 564 c 0
+ 326 659 284 708 203 708 c 0
+ 167 708 127 696 116 682 c 0
+ 107 671 103 656 99 610 c 2
+ 98 603 l 1
+ 50 603 l 1
+ 50 713 l 1
+ 107 733 154 741 208 741 c 0
+ 342 741 422 679 422 575 c 0xe0
+ 422 488 376 433 270 391 c 1
+ 345 370 382 348 411 308 c 0
+ 433 277 444 242 444 198 c 0
+ 444 65 351 -18 203 -18 c 0
+ 149 -18 95 -10 45 5 c 1xd0
+EndSplineSet
+Kerns2: 209 -30 "'kern' Horizontal Kerning lookup 0 subtable" 203 -37 "'kern' Horizontal Kerning lookup 0 subtable" 206 4 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

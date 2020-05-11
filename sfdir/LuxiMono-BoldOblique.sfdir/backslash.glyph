@@ -1,0 +1,14 @@
+StartChar: backslash
+Encoding: 92 92 280
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+571 -145 m 1
+ 464 -145 l 1
+ 154 771 l 1
+ 261 771 l 1
+ 571 -145 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,35 @@
+StartChar: Otilde
+Encoding: 213 213 34
+Width: 778
+Flags: W
+HStem: -18 48<327 452 327 495> 693 48<327.5 451> 783 79<465.5 486 465.5 492.5> 834 79<292 312>
+VStem: 36 160<255 467 255 478> 582 160<252.5 467>
+LayerCount: 2
+Fore
+SplineSet
+389 741 m 0xdc
+ 605 741 742 594 742 363 c 0
+ 742 127 606 -18 384 -18 c 0
+ 173 -18 36 132 36 362 c 0
+ 36 594 173 741 389 741 c 0xdc
+389 693 m 0
+ 266 693 196 573 196 361 c 0
+ 196 149 265 30 389 30 c 0
+ 515 30 582 144 582 361 c 0
+ 582 573 513 693 389 693 c 0
+264 783 m 1
+ 219 783 l 1
+ 220 864 256 913 315 913 c 0x1c
+ 336 913 359 907 381 896 c 2
+ 417 879 l 2
+ 440 868 459 862 472 862 c 0
+ 500 862 513 878 514 913 c 1
+ 559 913 l 1
+ 557 831 522 783 463 783 c 0x2c
+ 442 783 421 788 396 800 c 2
+ 360 817 l 2
+ 335 829 318 834 306 834 c 0
+ 278 834 265 818 264 783 c 1
+EndSplineSet
+Kerns2: 157 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 154 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 152 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

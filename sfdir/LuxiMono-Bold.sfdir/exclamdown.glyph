@@ -1,0 +1,23 @@
+StartChar: exclamdown
+Encoding: 161 161 233
+Width: 600
+Flags: MW
+HStem: 409 121<228 373 228 373>
+VStem: 228 145<-193 -48 -193 -48 409 530>
+LayerCount: 2
+Fore
+SplineSet
+373 530 m 1
+ 373 409 l 1
+ 228 409 l 1
+ 228 530 l 1
+ 373 530 l 1
+343 325 m 1
+ 373 -48 l 1
+ 373 -193 l 1
+ 228 -193 l 1
+ 228 -48 l 1
+ 259 325 l 1
+ 343 325 l 1
+EndSplineSet
+EndChar

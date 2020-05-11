@@ -1,0 +1,32 @@
+StartChar: odieresis
+Encoding: 246 246 95
+Width: 611
+Flags: MW
+HStem: -12 90<269.5 341 269.5 386.5> 458 90<269.5 341> 627 108<149 257 149 257 353 462 149 353>
+VStem: 36 108 36 153<210 326.5 210 353.5> 240 109 422 153<210 327>
+LayerCount: 2
+Fore
+SplineSet
+305 548 m 0
+ 469 548 575 439 575 269 c 0
+ 575 96 470 -12 303 -12 c 0
+ 141 -12 36 99 36 268 c 0xca
+ 36 439 141 548 305 548 c 0
+305 458 m 0
+ 234 458 189 385 189 268 c 0
+ 189 152 234 78 305 78 c 0
+ 377 78 422 151 422 269 c 0
+ 422 385 377 458 305 458 c 0
+149 627 m 1
+ 149 735 l 1
+ 257 735 l 1
+ 257 627 l 1x34
+ 149 627 l 1
+353 627 m 1
+ 353 735 l 1
+ 462 735 l 1
+ 462 627 l 1
+ 353 627 l 1
+EndSplineSet
+Kerns2: 190 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 189 -27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 188 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 187 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 185 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

@@ -1,0 +1,28 @@
+StartChar: Iacute
+Encoding: 205 205 21
+Width: 600
+Flags: MW
+HStem: 0 84<60 245 77 245 389 539> 639 84<205 355 188 684 500 500 500 667>
+LayerCount: 2
+Fore
+SplineSet
+60 0 m 1
+ 77 84 l 1
+ 245 84 l 1
+ 355 639 l 1
+ 188 639 l 1
+ 205 723 l 1
+ 684 723 l 1
+ 667 639 l 1
+ 500 639 l 1
+ 389 84 l 1
+ 557 84 l 1
+ 539 0 l 1
+ 60 0 l 1
+372 783 m 1
+ 505 940 l 1
+ 644 940 l 1
+ 456 783 l 1
+ 372 783 l 1
+EndSplineSet
+EndChar

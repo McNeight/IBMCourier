@@ -1,0 +1,27 @@
+StartChar: igrave
+Encoding: 236 236 88
+Width: 600
+Flags: MW
+HStem: 0 84<68 249 68 249 394 574> 446 84<68 249 68 394>
+VStem: 249 145<84 446 446 446>
+LayerCount: 2
+Fore
+SplineSet
+68 0 m 1
+ 68 84 l 1
+ 249 84 l 1
+ 249 446 l 1
+ 68 446 l 1
+ 68 530 l 1
+ 394 530 l 1
+ 394 84 l 1
+ 574 84 l 1
+ 574 0 l 1xe0
+ 68 0 l 1
+309 626 m 1
+ 152 783 l 1
+ 291 783 l 1
+ 393 626 l 1
+ 309 626 l 1
+EndSplineSet
+EndChar

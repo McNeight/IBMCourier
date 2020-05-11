@@ -1,0 +1,14 @@
+StartChar: quotesingle
+Encoding: 39 39 254
+Width: 278
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+115 470 m 1
+ 61 771 l 1
+ 218 771 l 1
+ 164 470 l 1
+ 115 470 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,26 @@
+StartChar: u
+Encoding: 117 117 186
+Width: 611
+Flags: W
+HStem: -12 20 0 20 516 20<174 318 318 318 501 646 646 646>
+LayerCount: 2
+Fore
+SplineSet
+394 0 m 1
+ 412 89 l 1
+ 337 18 277 -12 207 -12 c 0x80
+ 130 -12 91 24 91 95 c 0
+ 91 112 94 139 97 157 c 2
+ 174 536 l 1
+ 318 536 l 1
+ 249 193 l 2
+ 246 177 243 153 243 143 c 0
+ 243 116 259 102 288 102 c 0
+ 328 102 371 127 431 186 c 1
+ 501 536 l 1
+ 646 536 l 1
+ 539 0 l 1x60
+ 394 0 l 1
+EndSplineSet
+Kerns2: 268 -1 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

@@ -1,0 +1,28 @@
+StartChar: Tcaron
+Encoding: 275 356 41
+Width: 611
+Flags: MW
+HStem: 0 20 624 99<164 355 144 736 506 506 506 716>
+LayerCount: 2
+Fore
+SplineSet
+230 0 m 1
+ 355 624 l 1
+ 144 624 l 1
+ 164 723 l 1
+ 736 723 l 1
+ 716 624 l 1
+ 506 624 l 1
+ 381 0 l 1
+ 230 0 l 1
+678 940 m 1
+ 529 783 l 1
+ 395 783 l 1
+ 310 940 l 1
+ 396 940 l 1
+ 474 843 l 1
+ 475 843 l 1
+ 591 940 l 1
+ 678 940 l 1
+EndSplineSet
+EndChar

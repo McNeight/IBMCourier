@@ -1,0 +1,25 @@
+StartChar: divide
+Encoding: 247 247 262
+Width: 584
+Flags: MW
+HStem: 18 121<236 380 260 356> 248 84<101 600 118 583> 440 120<320 465 344 441>
+LayerCount: 2
+Fore
+SplineSet
+320 440 m 1
+ 344 560 l 1
+ 465 560 l 1
+ 441 440 l 1
+ 320 440 l 1
+236 18 m 1
+ 260 139 l 1
+ 380 139 l 1
+ 356 18 l 1
+ 236 18 l 1
+101 248 m 1
+ 118 332 l 1
+ 600 332 l 1
+ 583 248 l 1
+ 101 248 l 1
+EndSplineSet
+EndChar

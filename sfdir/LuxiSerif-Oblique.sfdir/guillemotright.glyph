@@ -1,0 +1,24 @@
+StartChar: guillemotright
+Encoding: 187 187 236
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+248 73 m 1
+ 420 265 l 1
+ 325 456 l 1
+ 353 476 l 1
+ 517 265 l 1
+ 268 54 l 1
+ 248 73 l 1
+57 73 m 1
+ 229 265 l 1
+ 134 456 l 1
+ 162 476 l 1
+ 326 265 l 1
+ 78 54 l 1
+ 57 73 l 1
+EndSplineSet
+Kerns2: 157 -131 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 155 -74 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 154 -106 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 152 -113 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 6 -56 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 0 -56 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1 -56 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 159 -67 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 133 -56 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

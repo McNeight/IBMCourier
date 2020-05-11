@@ -1,0 +1,20 @@
+StartChar: equal
+Encoding: 61 61 263
+Width: 564
+Flags: MW
+HStem: 175 48<41 523 41 523> 356 48<41 523 41 523>
+LayerCount: 2
+Fore
+SplineSet
+41 175 m 1
+ 41 223 l 1
+ 523 223 l 1
+ 523 175 l 1
+ 41 175 l 1
+41 356 m 1
+ 41 404 l 1
+ 523 404 l 1
+ 523 356 l 1
+ 41 356 l 1
+EndSplineSet
+EndChar

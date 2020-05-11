@@ -1,0 +1,18 @@
+StartChar: circumflex
+Encoding: 136 710 286
+Width: 333
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+107 626 m 1
+ 255 783 l 1
+ 389 783 l 1
+ 475 626 l 1
+ 388 626 l 1
+ 311 722 l 1
+ 310 722 l 1
+ 194 626 l 1
+ 107 626 l 1
+EndSplineSet
+EndChar

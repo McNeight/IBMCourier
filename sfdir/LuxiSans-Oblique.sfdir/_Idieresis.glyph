@@ -1,0 +1,25 @@
+StartChar: Idieresis
+Encoding: 207 207 20
+Width: 278
+Flags: MW
+HStem: 0 20 703 20<233 335 335 335> 784 84<157 258 174 242 367 434>
+LayerCount: 2
+Fore
+SplineSet
+88 0 m 1
+ 233 723 l 1
+ 335 723 l 1
+ 191 0 l 1
+ 88 0 l 1
+157 784 m 1
+ 174 868 l 1
+ 258 868 l 1
+ 242 784 l 1
+ 157 784 l 1
+350 784 m 1
+ 367 868 l 1
+ 451 868 l 1
+ 434 784 l 1
+ 350 784 l 1
+EndSplineSet
+EndChar

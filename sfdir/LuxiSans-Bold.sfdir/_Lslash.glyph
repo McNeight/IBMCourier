@@ -1,0 +1,26 @@
+StartChar: Lslash
+Encoding: 334 321 164
+Width: 611
+Flags: MW
+HStem: 0 103<234 602 234 602> 703 20<84 234 234 234>
+VStem: 84 150<103 291 291 291 467 723>
+LayerCount: 2
+Fore
+SplineSet
+84 0 m 1
+ 84 291 l 1
+ 0 248 l 1
+ 0 342 l 1
+ 84 386 l 1
+ 84 723 l 1
+ 234 723 l 1
+ 234 467 l 1
+ 355 532 l 1
+ 355 436 l 1
+ 234 371 l 1
+ 234 103 l 1
+ 602 103 l 1
+ 602 0 l 1
+ 84 0 l 1
+EndSplineSet
+EndChar

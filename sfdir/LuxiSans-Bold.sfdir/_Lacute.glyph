@@ -1,0 +1,23 @@
+StartChar: Lacute
+Encoding: 266 313 25
+Width: 611
+Flags: MW
+HStem: 0 103<234 602 234 602> 703 20<84 234 234 234>
+VStem: 84 150<103 723 103 723 103 723>
+LayerCount: 2
+Fore
+SplineSet
+84 0 m 1
+ 84 723 l 1
+ 234 723 l 1
+ 234 103 l 1
+ 602 103 l 1
+ 602 0 l 1
+ 84 0 l 1
+141 789 m 1
+ 259 946 l 1
+ 391 946 l 1
+ 234 789 l 1
+ 141 789 l 1
+EndSplineSet
+EndChar

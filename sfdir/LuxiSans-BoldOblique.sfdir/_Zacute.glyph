@@ -1,0 +1,26 @@
+StartChar: Zacute
+Encoding: 278 377 49
+Width: 611
+Flags: MW
+HStem: 0 103<46 67 67 67 241 566> 624 99<212 515 192 710 690 690>
+LayerCount: 2
+Fore
+SplineSet
+46 0 m 1
+ 67 103 l 1
+ 515 624 l 1
+ 192 624 l 1
+ 212 723 l 1
+ 710 723 l 1
+ 690 624 l 1
+ 241 103 l 1
+ 586 103 l 1
+ 566 0 l 1
+ 46 0 l 1
+369 783 m 1
+ 518 940 l 1
+ 650 940 l 1
+ 463 783 l 1
+ 369 783 l 1
+EndSplineSet
+EndChar

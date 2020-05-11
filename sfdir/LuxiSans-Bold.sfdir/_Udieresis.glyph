@@ -1,0 +1,35 @@
+StartChar: Udieresis
+Encoding: 220 220 42
+Width: 722
+Flags: W
+HStem: -18 100<322 419 322 421> 703 20<78 228 228 228 512 643 643 643> 784 108<214 322 214 322 419 528 214 419>
+VStem: 78 150<280 723> 214 108<784 892 784 892> 419 109<784 892 784 892> 512 131<269 279 279 723>
+LayerCount: 2
+Fore
+SplineSet
+78 723 m 1xf2
+ 228 723 l 1
+ 228 280 l 2
+ 228 142 272 82 372 82 c 0
+ 466 82 512 144 512 269 c 2
+ 512 723 l 1
+ 643 723 l 1
+ 643 279 l 2
+ 643 177 630 121 597 77 c 0
+ 549 14 472 -18 370 -18 c 0
+ 262 -18 178 16 127 81 c 0
+ 92 126 78 183 78 280 c 2
+ 78 723 l 1xf2
+214 784 m 1xec
+ 214 892 l 1
+ 322 892 l 1
+ 322 784 l 1
+ 214 784 l 1xec
+419 784 m 1
+ 419 892 l 1
+ 528 892 l 1
+ 528 784 l 1
+ 419 784 l 1
+EndSplineSet
+Kerns2: 183 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 222 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 181 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 178 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 226 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 167 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 133 -36 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

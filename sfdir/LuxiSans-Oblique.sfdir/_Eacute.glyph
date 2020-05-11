@@ -1,0 +1,28 @@
+StartChar: Eacute
+Encoding: 201 201 13
+Width: 667
+Flags: MW
+HStem: 0 77<211 638> 338 76<278 636 263 652> 646 77<324 746 324 324>
+LayerCount: 2
+Fore
+SplineSet
+93 0 m 1
+ 238 723 l 1
+ 761 723 l 1
+ 746 646 l 1
+ 324 646 l 1
+ 278 414 l 1
+ 652 414 l 1
+ 636 338 l 1
+ 263 338 l 1
+ 211 77 l 1
+ 654 77 l 1
+ 638 0 l 1
+ 93 0 l 1
+448 783 m 1
+ 597 940 l 1
+ 709 940 l 1
+ 521 783 l 1
+ 448 783 l 1
+EndSplineSet
+EndChar

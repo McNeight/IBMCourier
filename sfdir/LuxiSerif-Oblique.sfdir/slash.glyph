@@ -1,0 +1,15 @@
+StartChar: slash
+Encoding: 47 47 240
+Width: 278
+Flags: MW
+HStem: 703 20<387 437 437 437>
+LayerCount: 2
+Fore
+SplineSet
+-44 -144 m 1
+ 387 723 l 1
+ 437 723 l 1
+ 7 -144 l 1
+ -44 -144 l 1
+EndSplineSet
+EndChar

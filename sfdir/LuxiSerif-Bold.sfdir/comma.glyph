@@ -1,0 +1,23 @@
+StartChar: comma
+Encoding: 44 44 226
+Width: 250
+Flags: MW
+HStem: 0 20
+VStem: 47 157<-144 36 -99 36 6 36 36 157 6 157>
+LayerCount: 2
+Fore
+SplineSet
+47 -144 m 1
+ 47 -99 l 1
+ 86 -100 108 -72 108 -21 c 2
+ 108 -17 l 1
+ 107 0 l 1
+ 47 0 l 1
+ 47 157 l 1
+ 204 157 l 1
+ 204 36 l 2
+ 204 -24 189 -69 158 -100 c 0
+ 131 -127 104 -137 47 -144 c 1
+EndSplineSet
+Kerns2: 268 -43 "'kern' Horizontal Kerning lookup 0 subtable" 229 -31 "'kern' Horizontal Kerning lookup 0 subtable" 203 -16 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

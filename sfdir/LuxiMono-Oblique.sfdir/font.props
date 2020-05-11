@@ -1,0 +1,58 @@
+SplineFontDB: 3.2
+FontName: LuxiMono-Oblique
+FullName: Luxi Mono Oblique
+FamilyName: Luxi Mono
+Weight: Regular
+Copyright: Copyright Copyright (c) 2001 by Bigelow & Holmes Inc. Instructions copyright (c) 2001 by URW++.
+Version: 1.1000
+ItalicAngle: -11.3
+UnderlinePosition: -36
+UnderlineWidth: 72
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+UniqueID: 5078985
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1589168832
+ModificationTime: 1589168832
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 64 32 8
+BeginPrivate: 7
+BlueValues 23 [-18 0 530 542 723 741]
+BlueScale 8 0.039625
+StdHW 4 [61]
+StdVW 5 [101]
+StemSnapH 194 [61 68 73 79] 
+systemdict /internaldict known
+{1183615869 systemdict /internaldict get exec
+/StemSnapLength 2 copy known { get 4 lt } { pop pop true } ifelse }
+{ true } ifelse { pop [61 68] } if
+StemSnapV 2 []
+ForceBold 5 false
+EndPrivate
+EndSplineFont

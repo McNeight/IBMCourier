@@ -1,0 +1,19 @@
+StartChar: bracketleft
+Encoding: 91 91 247
+Width: 333
+Flags: MW
+HStem: -145 45<172 266> 726 45<337 440 337 337>
+LayerCount: 2
+Fore
+SplineSet
+40 -145 m 1
+ 223 771 l 1
+ 449 771 l 1
+ 440 726 l 1
+ 337 726 l 1
+ 172 -100 l 1
+ 275 -100 l 1
+ 266 -145 l 1
+ 40 -145 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,33 @@
+StartChar: Acircumflex
+Encoding: 194 194 3
+Width: 722
+Flags: MW
+HStem: 0 20 193 96<285 509 285 527 228 509> 703 20<431 581 581 581>
+LayerCount: 2
+Fore
+SplineSet
+6 0 m 1
+ 431 723 l 1
+ 581 723 l 1
+ 716 0 l 1
+ 562 0 l 1
+ 527 193 l 1
+ 228 193 l 1
+ 116 0 l 1
+ 6 0 l 1
+285 289 m 1
+ 509 289 l 1
+ 454 577 l 1
+ 285 289 l 1
+334 783 m 1
+ 483 940 l 1
+ 616 940 l 1
+ 702 783 l 1
+ 615 783 l 1
+ 538 879 l 1
+ 537 879 l 1
+ 421 783 l 1
+ 334 783 l 1
+EndSplineSet
+Kerns2: 222 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 226 19 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 157 -85 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 155 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 154 -62 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 153 -35 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 152 -90 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 149 -34 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 147 -34 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 139 -34 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 135 -34 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar
