@@ -1,0 +1,28 @@
+StartChar: Sigma
+Encoding: 262 931 155
+Width: 600
+Flags: W
+HStem: 0 47<139 432 139 484> 516 47<145 423 145 145>
+VStem: 86 53<47 47 47 52 47 52> 427.5 51.5 435 49
+LayerCount: 2
+Fore
+SplineSet
+86 563 m 1xe8
+ 479 563 l 1
+ 479 380 l 1
+ 432 380 l 1
+ 423 516 l 1xf0
+ 145 516 l 1
+ 325 298 l 1
+ 139 47 l 1
+ 432 47 l 1
+ 438 184 l 1
+ 484 184 l 1
+ 484 0 l 1
+ 86 0 l 1
+ 86 52 l 1
+ 264 298 l 1
+ 86 511 l 1
+ 86 563 l 1xe8
+EndSplineSet
+EndChar

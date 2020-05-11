@@ -1,0 +1,16 @@
+StartChar: emdash
+Encoding: 208 8212 136
+Width: 600
+Flags: MW
+HStem: 262 55<17 713 17 713>
+VStem: 17 696<262 317 262 317>
+LayerCount: 2
+Fore
+SplineSet
+17 317 m 1
+ 713 317 l 1
+ 713 262 l 1
+ 17 262 l 1
+ 17 317 l 1
+EndSplineSet
+EndChar

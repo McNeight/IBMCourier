@@ -1,0 +1,21 @@
+StartChar: sevensuperior
+Encoding: 351 8311 244
+Width: 600
+Flags: MW
+HStem: 575 56<312 448 312 312>
+VStem: 243 282<522 631>
+LayerCount: 2
+Fore
+SplineSet
+266 631 m 1
+ 525 631 l 1
+ 516 587 l 1
+ 328 254 l 1
+ 262 254 l 1
+ 448 575 l 1
+ 312 575 l 1
+ 301 522 l 1
+ 243 522 l 1
+ 266 631 l 1
+EndSplineSet
+EndChar

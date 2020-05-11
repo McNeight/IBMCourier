@@ -1,0 +1,16 @@
+StartChar: SF110000
+Encoding: 391 9474 284
+Width: 600
+Flags: MW
+HStem: -288 1080<264 336 264 336>
+VStem: 264 72<-288 792 -288 792>
+LayerCount: 2
+Fore
+SplineSet
+264 -288 m 1
+ 264 792 l 1
+ 336 792 l 1
+ 336 -288 l 1
+ 264 -288 l 1
+EndSplineSet
+EndChar

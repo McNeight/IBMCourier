@@ -1,0 +1,16 @@
+StartChar: periodcentered
+Encoding: 180 183 113
+Width: 600
+Flags: MW
+HStem: 228 170<355 377.5>
+VStem: 270 191<300 326.5>
+LayerCount: 2
+Fore
+SplineSet
+382 398 m 0
+ 420 398 461 373 461 328 c 0
+ 461 272 405 228 350 228 c 0
+ 309 228 270 253 270 298 c 0
+ 270 355 328 398 382 398 c 0
+EndSplineSet
+EndChar

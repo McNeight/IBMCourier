@@ -1,0 +1,22 @@
+StartChar: dotlessi
+Encoding: 245 305 144
+Width: 600
+Flags: MW
+HStem: 0 47<109 285 336 499 99 285> 383 47<219 356 209 417>
+VStem: 99 410<0 47>
+LayerCount: 2
+Fore
+SplineSet
+219 430 m 1
+ 417 430 l 1
+ 336 47 l 1
+ 509 47 l 1
+ 499 0 l 1
+ 99 0 l 1
+ 109 47 l 1
+ 285 47 l 1
+ 356 383 l 1
+ 209 383 l 1
+ 219 430 l 1
+EndSplineSet
+EndChar

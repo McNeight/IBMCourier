@@ -1,0 +1,16 @@
+StartChar: filledbox
+Encoding: 443 9632 336
+Width: 600
+Flags: MW
+HStem: 141 198<201 399 201 399>
+VStem: 201 198<141 339 141 339>
+LayerCount: 2
+Fore
+SplineSet
+201 141 m 1
+ 201 339 l 1
+ 399 339 l 1
+ 399 141 l 1
+ 201 141 l 1
+EndSplineSet
+EndChar

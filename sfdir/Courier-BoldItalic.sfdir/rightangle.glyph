@@ -1,0 +1,18 @@
+StartChar: rightangle
+Encoding: 259 8735 152
+Width: 600
+Flags: MW
+HStem: 0 88<221 587 221 587> 434 20G<133 221 221 221>
+VStem: 133 88<88 454 88 454 88 454>
+LayerCount: 2
+Fore
+SplineSet
+587 0 m 1
+ 133 0 l 1
+ 133 454 l 1
+ 221 454 l 1
+ 221 88 l 1
+ 587 88 l 1
+ 587 0 l 1
+EndSplineSet
+EndChar

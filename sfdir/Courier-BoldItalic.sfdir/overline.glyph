@@ -1,0 +1,16 @@
+StartChar: overline
+Encoding: 386 8254 279
+Width: 600
+Flags: MW
+HStem: 718 87<45 555 45 555>
+VStem: 45 510<718 805 718 805>
+LayerCount: 2
+Fore
+SplineSet
+555 805 m 1
+ 555 718 l 1
+ 45 718 l 1
+ 45 805 l 1
+ 555 805 l 1
+EndSplineSet
+EndChar

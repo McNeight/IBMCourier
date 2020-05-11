@@ -1,0 +1,20 @@
+StartChar: bracketleft
+Encoding: 91 91 59
+Width: 600
+Flags: MW
+HStem: -91 87<377 498 377 498> 583 89<377 498 377 377>
+VStem: 290 87<-4 583 -4 672>
+LayerCount: 2
+Fore
+SplineSet
+290 672 m 1
+ 498 672 l 1
+ 498 583 l 1
+ 377 583 l 1
+ 377 -4 l 1
+ 498 -4 l 1
+ 498 -91 l 1
+ 290 -91 l 1
+ 290 672 l 1
+EndSplineSet
+EndChar

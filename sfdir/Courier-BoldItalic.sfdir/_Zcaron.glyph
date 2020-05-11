@@ -1,0 +1,9 @@
+StartChar: Zcaron
+Encoding: 521 381 414
+Width: 600
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 58 90 N 1 0 0 1 0 0 2
+Refer: 135 711 N 1 0 0 1 30 130 2
+EndChar

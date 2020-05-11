@@ -1,0 +1,16 @@
+StartChar: acute
+Encoding: 194 180 124
+Width: 600
+Flags: MW
+HStem: 503 115<215 411 215 411>
+VStem: 215 196<503 618>
+LayerCount: 2
+Fore
+SplineSet
+411 618 m 1
+ 268 503 l 1
+ 215 503 l 1
+ 304 618 l 1
+ 411 618 l 1
+EndSplineSet
+EndChar

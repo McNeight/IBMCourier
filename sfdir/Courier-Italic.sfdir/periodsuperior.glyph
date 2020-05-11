@@ -1,0 +1,16 @@
+StartChar: periodsuperior
+Encoding: 408 -1 301
+Width: 600
+Flags: MW
+HStem: 254 92<354 369.5>
+VStem: 303 118<291.5 308>
+LayerCount: 2
+Fore
+SplineSet
+371 346 m 0
+ 399 346 421 329 421 308 c 0
+ 421 275 385 254 354 254 c 0
+ 330 254 303 267 303 293 c 0
+ 303 323 337 346 371 346 c 0
+EndSplineSet
+EndChar

@@ -1,0 +1,23 @@
+StartChar: SM790000
+Encoding: 356 8962 249
+Width: 600
+Flags: MW
+HStem: 0 53<126 474 126 527> 547 20G<300 300>
+VStem: 73 53<53 290 53 312 53 312> 474 53<53 290 290 290>
+LayerCount: 2
+Fore
+SplineSet
+73 0 m 1
+ 73 312 l 1
+ 300 567 l 1
+ 527 312 l 1
+ 527 0 l 1
+ 73 0 l 1
+126 290 m 1
+ 126 53 l 1
+ 474 53 l 1
+ 474 290 l 1
+ 300 485 l 1
+ 126 290 l 1
+EndSplineSet
+EndChar

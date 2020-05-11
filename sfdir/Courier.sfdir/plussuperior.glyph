@@ -1,0 +1,24 @@
+StartChar: plussuperior
+Encoding: 299 8314 192
+Width: 600
+Flags: W
+HStem: 409 43<141 275 141 275 325 459> 409 164<141 325 141 325 275 459 275 325>
+VStem: 275 50<288 409 288 409 452 573>
+LayerCount: 2
+Fore
+SplineSet
+275 573 m 1xe0
+ 325 573 l 1x60
+ 325 452 l 1
+ 459 452 l 1
+ 459 409 l 1
+ 325 409 l 1
+ 325 288 l 1
+ 275 288 l 1
+ 275 409 l 1
+ 141 409 l 1
+ 141 452 l 1
+ 275 452 l 1xa0
+ 275 573 l 1xe0
+EndSplineSet
+EndChar

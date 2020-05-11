@@ -1,0 +1,31 @@
+StartChar: Lquoteright
+Encoding: 380 -1 273
+Width: 600
+Flags: MW
+HStem: 0 82<59 155 243 478 41 155> 501 82<165 243 147 469 332 451 332 332>
+VStem: 41 646<0 583>
+LayerCount: 2
+Fore
+SplineSet
+165 583 m 1
+ 469 583 l 1
+ 451 501 l 1
+ 332 501 l 1
+ 243 82 l 1
+ 478 82 l 1
+ 530 278 l 1
+ 619 278 l 1
+ 547 0 l 1
+ 41 0 l 1
+ 59 82 l 1
+ 155 82 l 1
+ 243 501 l 1
+ 147 501 l 1
+ 165 583 l 1
+541 583 m 1
+ 687 583 l 1
+ 506 309 l 1
+ 396 309 l 1
+ 541 583 l 1
+EndSplineSet
+EndChar

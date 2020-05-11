@@ -1,0 +1,27 @@
+StartChar: asterisk
+Encoding: 42 42 10
+Width: 600
+Flags: W
+HStem: 206 357<217 334 266 383> 331 21G<300 300> 543 20G<266 334 334 334>
+VStem: 111 378<403 403> 269 62
+LayerCount: 2
+Fore
+SplineSet
+266 563 m 1xf8
+ 334 563 l 1
+ 328 416 l 1
+ 468 467 l 1
+ 489 403 l 1
+ 345 363 l 1
+ 438 247 l 1
+ 383 206 l 1
+ 300 331 l 1
+ 217 206 l 1
+ 162 247 l 1
+ 255 363 l 1
+ 111 403 l 1
+ 132 467 l 1
+ 272 416 l 1
+ 266 563 l 1xf8
+EndSplineSet
+EndChar

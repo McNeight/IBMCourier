@@ -1,0 +1,26 @@
+StartChar: Gamma
+Encoding: 363 915 256
+Width: 600
+Flags: MW
+HStem: 0 47<58 142 192 278 58 142> 516 47<58 142 58 532 192 480 192 192>
+VStem: 142 50<47 516 47 516> 485 49
+LayerCount: 2
+Fore
+SplineSet
+58 563 m 1
+ 532 563 l 1
+ 536 380 l 1
+ 490 380 l 1
+ 480 516 l 1
+ 192 516 l 1
+ 192 47 l 1
+ 278 47 l 1
+ 278 0 l 1
+ 58 0 l 1
+ 58 47 l 1
+ 142 47 l 1
+ 142 516 l 1
+ 58 516 l 1
+ 58 563 l 1
+EndSplineSet
+EndChar

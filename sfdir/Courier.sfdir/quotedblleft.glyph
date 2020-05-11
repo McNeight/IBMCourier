@@ -1,0 +1,21 @@
+StartChar: quotedblleft
+Encoding: 170 8220 104
+Width: 600
+Flags: W
+HStem: 320 243<157 337 157 337 330 337 266 433 330 330> 543 20G<266 337 337 337 438 509 509 509>
+VStem: 157 180 157 352<320 563> 330 179
+LayerCount: 2
+Fore
+SplineSet
+433 320 m 1xd8
+ 330 320 l 1
+ 438 563 l 1
+ 509 563 l 1
+ 433 320 l 1xd8
+260 320 m 1xa0
+ 157 320 l 1
+ 266 563 l 1
+ 337 563 l 1
+ 260 320 l 1xa0
+EndSplineSet
+EndChar

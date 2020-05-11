@@ -1,0 +1,19 @@
+StartChar: asciicircum
+Encoding: 94 94 62
+Width: 600
+Flags: W
+HStem: 154 21G<138 214 138 138 516 516 516 592> 479 84<365 365> 543 20G<328 402 402 402>
+VStem: 138 454<154 154>
+LayerCount: 2
+Fore
+SplineSet
+365 479 m 1xf0
+ 214 154 l 1
+ 138 154 l 1
+ 328 563 l 1
+ 402 563 l 1
+ 592 154 l 1
+ 516 154 l 1
+ 365 479 l 1xf0
+EndSplineSet
+EndChar

@@ -1,0 +1,16 @@
+StartChar: longdash
+Encoding: 448 -1 341
+Width: 600
+Flags: MW
+HStem: 262 55<114 616 114 616>
+VStem: 114 502<262 317 262 317>
+LayerCount: 2
+Fore
+SplineSet
+114 317 m 1
+ 616 317 l 1
+ 616 262 l 1
+ 114 262 l 1
+ 114 317 l 1
+EndSplineSet
+EndChar

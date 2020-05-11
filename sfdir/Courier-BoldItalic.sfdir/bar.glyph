@@ -1,0 +1,16 @@
+StartChar: bar
+Encoding: 124 124 92
+Width: 600
+Flags: MW
+HStem: -184 857<315 414 315 414>
+VStem: 315 99<-184 673 -184 673>
+LayerCount: 2
+Fore
+SplineSet
+414 673 m 1
+ 414 -184 l 1
+ 315 -184 l 1
+ 315 673 l 1
+ 414 673 l 1
+EndSplineSet
+EndChar

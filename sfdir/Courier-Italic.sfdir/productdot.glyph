@@ -1,0 +1,16 @@
+StartChar: productdot
+Encoding: 260 -1 153
+Width: 600
+Flags: MW
+HStem: 235 136<347.5 383.5>
+VStem: 288 154<282 323.5 282 324>
+LayerCount: 2
+Fore
+SplineSet
+365 371 m 0
+ 403 371 442 344 442 303 c 0
+ 442 261 402 235 365 235 c 0
+ 330 235 288 259 288 303 c 0
+ 288 345 328 371 365 371 c 0
+EndSplineSet
+EndChar

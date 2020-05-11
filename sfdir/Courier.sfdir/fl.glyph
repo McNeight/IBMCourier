@@ -1,0 +1,36 @@
+StartChar: fl
+Encoding: 175 64258 109
+Width: 600
+Flags: W
+HStem: 0 47<1 139 189 411 461 600 1 139> 371 47<1 139 1 139 189 329> 575 50<240 302> 590 20G<461 461>
+VStem: 139 50<47 371 47 371 418 470> 411 50<47 560 560 560>
+LayerCount: 2
+Fore
+SplineSet
+461 610 m 1xfc
+ 461 47 l 1
+ 600 47 l 1
+ 600 0 l 1
+ 1 0 l 1
+ 1 47 l 1
+ 139 47 l 1
+ 139 371 l 1
+ 1 371 l 1
+ 1 418 l 1
+ 139 418 l 1
+ 139 475 l 2
+ 139 541 144 625 290 625 c 0xec
+ 344 625 409 617 461 610 c 1xfc
+411 47 m 1
+ 411 560 l 1
+ 353 571 316 575 288 575 c 0
+ 192 575 189 533 189 470 c 2
+ 189 418 l 1
+ 329 418 l 1
+ 329 371 l 1
+ 189 371 l 1
+ 189 47 l 1
+ 411 47 l 1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" f l
+EndChar

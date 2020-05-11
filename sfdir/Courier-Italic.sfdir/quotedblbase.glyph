@@ -1,0 +1,21 @@
+StartChar: quotedblbase
+Encoding: 185 8222 117
+Width: 600
+Flags: W
+HStem: -109 242<66 298 66 298 238 238 238 298 194 310>
+VStem: 66 232 66 404<-109 133> 238 232
+LayerCount: 2
+Fore
+SplineSet
+194 133 m 1xe0
+ 298 133 l 1
+ 138 -109 l 1
+ 66 -109 l 1
+ 194 133 l 1xe0
+366 133 m 1x90
+ 470 133 l 1
+ 310 -109 l 1
+ 238 -109 l 1
+ 366 133 l 1x90
+EndSplineSet
+EndChar

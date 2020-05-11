@@ -1,0 +1,21 @@
+StartChar: dieresis
+Encoding: 200 168 130
+Width: 600
+Flags: W
+HStem: 533 115<178 274 178 274 326 422 178 326>
+VStem: 178 96<533 648 533 648> 326 96<533 648 533 648>
+LayerCount: 2
+Fore
+SplineSet
+178 533 m 1
+ 178 648 l 1
+ 274 648 l 1
+ 274 533 l 1
+ 178 533 l 1
+326 533 m 1xa0
+ 326 648 l 1
+ 422 648 l 1
+ 422 533 l 1
+ 326 533 l 1xa0
+EndSplineSet
+EndChar
