@@ -1,0 +1,17 @@
+StartChar: hyphen
+Encoding: 45 45 13
+Width: 326
+Flags: MW
+HStem: 192 98<36 290 36 290>
+VStem: 36 254<192 290 192 290>
+LayerCount: 2
+Fore
+SplineSet
+36 290 m 1
+ 290 290 l 1
+ 290 192 l 1
+ 36 192 l 1
+ 36 290 l 1
+EndSplineSet
+Kerns2: 57 -74 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 56 -37 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -56 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -56 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 -37 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

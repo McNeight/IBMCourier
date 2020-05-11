@@ -1,0 +1,29 @@
+StartChar: Z
+Encoding: 90 90 58
+Width: 556
+Flags: MW
+HStem: 0 49<90 376 90 445> 623 48<206 454 206 206>
+VStem: -25 597
+LayerCount: 2
+Fore
+SplineSet
+128 671 m 1
+ 572 671 l 1
+ 563 629 l 1
+ 90 49 l 1
+ 376 49 l 1
+ 390 62 l 1
+ 430 181 l 1
+ 479 181 l 1
+ 445 0 l 1
+ -25 0 l 1
+ -18 41 l 1
+ 454 623 l 1
+ 206 623 l 1
+ 184 610 l 1
+ 150 516 l 1
+ 98 516 l 1
+ 128 671 l 1
+EndSplineSet
+Kerns2: 13 37 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

@@ -1,0 +1,19 @@
+StartChar: circumflex
+Encoding: 195 710 125
+Width: 500
+Flags: MW
+HStem: 552 190<96 294 96 294 206 404 206 327>
+VStem: 96 308<552 552>
+LayerCount: 2
+Fore
+SplineSet
+206 742 m 1
+ 294 742 l 1
+ 404 552 l 1
+ 327 552 l 1
+ 250 677 l 1
+ 174 552 l 1
+ 96 552 l 1
+ 206 742 l 1
+EndSplineSet
+EndChar

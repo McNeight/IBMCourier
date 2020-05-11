@@ -1,0 +1,21 @@
+StartChar: hungarumlaut
+Encoding: 205 733 133
+Width: 500
+Flags: W
+HStem: 546 190<175 403 175 403 281 403 311 328>
+VStem: 175 228<546 736> 281 288<546 736>
+LayerCount: 2
+Fore
+SplineSet
+311 736 m 1xc0
+ 403 736 l 1
+ 218 546 l 1
+ 175 546 l 1
+ 311 736 l 1xc0
+462 736 m 1xa0
+ 569 736 l 1
+ 328 546 l 1
+ 281 546 l 1
+ 462 736 l 1xa0
+EndSplineSet
+EndChar

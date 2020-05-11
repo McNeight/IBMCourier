@@ -1,0 +1,19 @@
+StartChar: caron
+Encoding: 207 711 135
+Width: 500
+Flags: MW
+HStem: 551 190<248 252 175 336 248 248>
+VStem: 175 307<741 741>
+LayerCount: 2
+Fore
+SplineSet
+175 741 m 1
+ 252 741 l 1
+ 304 616 l 1
+ 405 741 l 1
+ 482 741 l 1
+ 336 551 l 1
+ 248 551 l 1
+ 175 741 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,9 @@
+StartChar: idieresis
+Encoding: 297 239 190
+Width: 280
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 144 305 N 1 0 0 1 0 0 2
+Refer: 130 168 N 1 0 0 1 -110 0 2
+EndChar

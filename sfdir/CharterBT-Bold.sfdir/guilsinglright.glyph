@@ -1,0 +1,20 @@
+StartChar: guilsinglright
+Encoding: 173 8250 107
+Width: 255
+Flags: MW
+HStem: 54 372<38 38>
+VStem: 38 172<54 282 138 282 198 426 198 426>
+LayerCount: 2
+Fore
+SplineSet
+38 426 m 1
+ 210 282 l 1
+ 210 198 l 1
+ 38 54 l 1
+ 38 138 l 1
+ 146 240 l 1
+ 38 342 l 1
+ 38 426 l 1
+EndSplineSet
+Kerns2: 57 -56 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

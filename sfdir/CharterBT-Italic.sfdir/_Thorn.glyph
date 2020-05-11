@@ -1,0 +1,40 @@
+StartChar: Thorn
+Encoding: 318 222 211
+Width: 532
+Flags: MW
+HStem: 0 38<-29 207 -29 -29> 126 47<205.5 269 191 306.5> 502 43<256.5 271 271 317.5> 633 38<83 326 83 326>
+VStem: 423 94<309.5 416.5>
+LayerCount: 2
+Fore
+SplineSet
+83 671 m 1
+ 326 671 l 1
+ 326 633 l 1
+ 261 628 l 1
+ 245 614 l 1
+ 232 545 l 1
+ 271 545 l 2
+ 437 545 517 498 517 382 c 0
+ 517 237 399 126 214 126 c 0
+ 197 126 175 127 150 128 c 1
+ 136 58 l 1
+ 143 44 l 1
+ 207 38 l 1
+ 207 0 l 1
+ -29 0 l 1
+ -29 38 l 1
+ 34 44 l 1
+ 50 58 l 1
+ 158 614 l 1
+ 146 628 l 1
+ 83 633 l 1
+ 83 671 l 1
+223 500 m 1
+ 159 175 l 1
+ 172 174 185 173 197 173 c 0
+ 341 173 423 248 423 371 c 0
+ 423 462 372 502 263 502 c 0
+ 250 502 237 501 223 500 c 1
+EndSplineSet
+Kerns2: 118 -37 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -148 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 12 -148 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 7 -37 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

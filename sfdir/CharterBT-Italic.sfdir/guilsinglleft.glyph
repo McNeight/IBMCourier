@@ -1,0 +1,19 @@
+StartChar: guilsinglleft
+Encoding: 172 8249 106
+Width: 245
+Flags: MW
+HStem: 67 346<151 218>
+VStem: 13 205
+LayerCount: 2
+Fore
+SplineSet
+218 413 m 1
+ 205 347 l 1
+ 67 240 l 1
+ 164 132 l 1
+ 151 67 l 1
+ 13 200 l 1
+ 28 280 l 1
+ 218 413 l 1
+EndSplineSet
+EndChar
