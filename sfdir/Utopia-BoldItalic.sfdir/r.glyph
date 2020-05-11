@@ -1,0 +1,29 @@
+StartChar: r
+Encoding: 114 114 82
+Width: 440
+Flags: W
+HStem: -12 21G<86 86> 357 145<455 484> 477 20G<330 330>
+VStem: 86 446<-12 463>
+LayerCount: 2
+Fore
+SplineSet
+226 0 m 1xb0
+ 86 -12 l 1
+ 179 391 l 2
+ 185 418 183 432 164 434 c 2
+ 105 440 l 1
+ 112 473 l 1
+ 325 502 l 1
+ 330 497 l 1xb0
+ 293 352 l 1
+ 298 352 l 1
+ 348 443 409 502 470 502 c 0
+ 508 502 532 483 532 443 c 0
+ 532 404 504 357 464 357 c 0
+ 446 357 430 366 416 376 c 0
+ 403 385 390 392 378 392 c 0xd0
+ 346 392 312 322 281 213 c 0
+ 262 146 244 65 226 0 c 1xb0
+EndSplineSet
+Kerns2: 65 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 67 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 26 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 12 -100 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 110 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -100 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 118 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 7 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

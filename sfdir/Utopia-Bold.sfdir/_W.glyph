@@ -1,0 +1,43 @@
+StartChar: W
+Encoding: 87 87 55
+Width: 933
+Flags: W
+HStem: 0 21G<221 347 221 221 591 718 591 591> 0 159<327 329 327 347 221 329 696 700> 656 36<-10 277 -10 277> 657 20G<453 564 564 564>
+VStem: -10 970<656 692 656 692> 807 153
+LayerCount: 2
+Fore
+SplineSet
+731 692 m 1xec
+ 960 692 l 1
+ 960 656 l 1
+ 906 649 897 644 883 598 c 0
+ 868 550 840 455 811 347 c 2
+ 718 0 l 1
+ 591 0 l 1
+ 468 468 l 1
+ 465 468 l 1
+ 347 0 l 1
+ 221 0 l 1
+ 133 334 l 2
+ 105 438 80 535 58 608 c 0
+ 47 644 40 651 -10 656 c 1
+ -10 692 l 1
+ 277 692 l 1
+ 277 656 l 1
+ 231 649 l 2
+ 220 648 214 644 211 638 c 0
+ 209 632 210 623 213 611 c 2xa4
+ 327 159 l 1
+ 329 159 l 1
+ 453 677 l 1
+ 564 677 l 1x58
+ 696 159 l 1
+ 700 159 l 1
+ 757 384 l 2
+ 788 509 803 583 807 608 c 0
+ 811 632 809 645 788 648 c 2
+ 731 656 l 1
+ 731 692 l 1xec
+EndSplineSet
+Kerns2: 33 -58 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 35 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 65 -75 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 93 70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 61 80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 26 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 12 -100 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 73 5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 9 80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -100 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 118 24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 7 40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -46 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -50 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

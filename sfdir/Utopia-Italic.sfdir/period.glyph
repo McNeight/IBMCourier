@@ -1,0 +1,17 @@
+StartChar: period
+Encoding: 46 46 14
+Width: 265
+Flags: MW
+HStem: -12 125<128 158.5>
+VStem: 82 122<36 65.5>
+LayerCount: 2
+Fore
+SplineSet
+139 -12 m 0
+ 103 -12 82 13 82 45 c 0
+ 82 86 109 113 147 113 c 0
+ 183 113 204 87 204 57 c 0
+ 204 15 178 -12 139 -12 c 0
+EndSplineSet
+Kerns2: 118 -80 "'kern' Horizontal Kerning lookup 0 subtable" 7 -80 "'kern' Horizontal Kerning lookup 0 subtable" 0 -40 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

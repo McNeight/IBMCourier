@@ -1,0 +1,42 @@
+StartChar: R
+Encoding: 82 82 50
+Width: 684
+Flags: W
+HStem: 0 38<33 351 33 33> 318 46<272 322 272 318> 646 46<308.5 370> 654 38<33 380>
+VStem: 112 160<97 318 364 595 595 607> 455 168<469.5 538.5 469.5 558>
+LayerCount: 2
+Fore
+SplineSet
+272 318 m 1xec
+ 272 97 l 2
+ 272 46 280 41 351 38 c 1
+ 351 0 l 1
+ 33 0 l 1
+ 33 38 l 1
+ 104 41 112 46 112 97 c 2
+ 112 595 l 2
+ 112 646 104 651 33 654 c 1xdc
+ 33 692 l 1
+ 380 692 l 2
+ 478 692 535 673 573 640 c 0
+ 609 607 623 564 623 513 c 0
+ 623 426 553 361 454 348 c 1
+ 454 346 l 1
+ 557 320 576 254 590 174 c 0
+ 599 122 614 85 639 60 c 0
+ 651 48 668 39 686 38 c 1
+ 686 0 l 1
+ 612 0 l 2
+ 507 0 464 26 440 100 c 0
+ 424 151 416 205 408 240 c 0
+ 396 294 368 318 318 318 c 2
+ 272 318 l 1xec
+272 607 m 2xec
+ 272 364 l 1
+ 322 364 l 2
+ 423 364 455 424 455 507 c 0
+ 455 609 404 646 336 646 c 0
+ 281 646 272 634 272 607 c 2xec
+EndSplineSet
+Kerns2: 35 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 39 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -26 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 56 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -32 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 65 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 118 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 7 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

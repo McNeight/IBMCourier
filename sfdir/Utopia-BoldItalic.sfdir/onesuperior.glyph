@@ -1,0 +1,26 @@
+StartChar: onesuperior
+Encoding: 256 185 149
+Width: 402
+Flags: W
+HStem: 272 29.5 653 20G<396 396> 660 20G<390 390>
+VStem: 119 277
+LayerCount: 2
+Fore
+SplineSet
+372 272 m 1xb0
+ 119 272 l 1
+ 125 299 l 1
+ 164 304 l 2
+ 186 307 196 314 201 340 c 2
+ 258 590 l 2
+ 264 614 257 621 242 624 c 2
+ 202 630 l 1
+ 208 656 l 1
+ 390 680 l 1
+ 396 673 l 1xd0
+ 320 340 l 2
+ 315 314 321 307 341 304 c 2
+ 378 299 l 1
+ 372 272 l 1xb0
+EndSplineSet
+EndChar

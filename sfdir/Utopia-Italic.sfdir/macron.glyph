@@ -1,0 +1,16 @@
+StartChar: macron
+Encoding: 197 175 127
+Width: 400
+Flags: MW
+HStem: 597 59<246 506 228 524>
+VStem: 228 296<597 656>
+LayerCount: 2
+Fore
+SplineSet
+246 656 m 1
+ 524 656 l 1
+ 506 597 l 1
+ 228 597 l 1
+ 246 656 l 1
+EndSplineSet
+EndChar

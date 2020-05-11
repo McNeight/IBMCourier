@@ -1,0 +1,7 @@
+StartChar: space
+Encoding: 32 32 0
+Width: 225
+Flags: W
+LayerCount: 2
+Kerns2: 52 -36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 117 -60 "'kern' Horizontal Kerning lookup 0 subtable" 104 -40 "'kern' Horizontal Kerning lookup 0 subtable" 64 -40 "'kern' Horizontal Kerning lookup 0 subtable" 116 -60 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

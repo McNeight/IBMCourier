@@ -1,0 +1,25 @@
+StartChar: semicolon
+Encoding: 59 59 27
+Width: 280
+Flags: W
+HStem: 312 178<204.5 247.5>
+VStem: 80 162<89 115 36 122> 135 180<381.5 421.5>
+LayerCount: 2
+Fore
+SplineSet
+52 -167 m 1xa0
+ 26 -138 l 1
+ 65 -100 105 -51 105 1 c 0
+ 105 20 98 39 93 50 c 0
+ 85 67 80 79 80 99 c 0
+ 80 145 116 180 162 180 c 0
+ 216 181 242 139 242 91 c 0xc0
+ 242 -19 132 -109 52 -167 c 1xa0
+231 490 m 0xa0
+ 289 490 315 453 315 412 c 0
+ 315 351 273 312 222 312 c 0
+ 162 312 135 348 135 391 c 0
+ 135 452 178 490 231 490 c 0xa0
+EndSplineSet
+Kerns2: 0 -30 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

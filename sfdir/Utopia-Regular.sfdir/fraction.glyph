@@ -1,0 +1,16 @@
+StartChar: fraction
+Encoding: 164 8260 98
+Width: 150
+Flags: W
+HStem: 0 21G<-158 -158> 651 20G<308 308> 675 20G<270 270>
+VStem: -158 466
+LayerCount: 2
+Fore
+SplineSet
+-122 -27 m 1
+ -158 0 l 1
+ 270 695 l 1xb0
+ 308 671 l 1xd0
+ -122 -27 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,26 @@
+StartChar: one
+Encoding: 49 49 17
+Width: 530
+Flags: W
+HStem: 0 31.5 654 20G<464 464> 660 20G<456 456>
+VStem: 109 355
+LayerCount: 2
+Fore
+SplineSet
+109 0 m 1xb0
+ 115 29 l 1
+ 206 36 l 2
+ 223 37 234 48 239 72 c 2
+ 352 578 l 2
+ 356 597 354 609 340 611 c 2
+ 243 621 l 1
+ 251 645 l 1
+ 456 680 l 1
+ 464 674 l 1xd0
+ 328 72 l 2
+ 322 44 333 35 349 34 c 2
+ 438 29 l 1
+ 432 0 l 1
+ 109 0 l 1xb0
+EndSplineSet
+EndChar

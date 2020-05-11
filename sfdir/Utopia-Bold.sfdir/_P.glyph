@@ -1,0 +1,34 @@
+StartChar: P
+Encoding: 80 80 48
+Width: 650
+Flags: W
+HStem: 0 36<33 368> 275 46<308.5 332 272 378.5> 646 46<305.5 343 343 364.5> 654 38<33 343>
+VStem: 112 160<97 275 345 364 364 595 595 609> 455 168<452 529 452 543.5>
+LayerCount: 2
+Fore
+SplineSet
+272 609 m 2xec
+ 272 364 l 2
+ 272 326 289 321 328 321 c 0
+ 429 321 455 410 455 486 c 0
+ 455 601 398 646 331 646 c 0
+ 280 646 272 637 272 609 c 2xec
+368 0 m 1
+ 33 0 l 1
+ 33 38 l 1
+ 104 41 112 46 112 97 c 2
+ 112 595 l 2
+ 112 646 104 651 33 654 c 1xdc
+ 33 692 l 1
+ 343 692 l 2
+ 424 692 489 684 538 654 c 0
+ 587 624 623 569 623 489 c 0
+ 623 415 596 361 546 325 c 0
+ 500 292 426 275 332 275 c 2
+ 272 275 l 1
+ 272 97 l 2
+ 272 46 280 41 368 36 c 1
+ 368 0 l 1
+EndSplineSet
+Kerns2: 33 -85 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 37 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 40 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 65 -36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 12 -200 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 73 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -36 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -200 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 118 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 7 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

@@ -1,0 +1,16 @@
+StartChar: minus
+Encoding: 257 8722 150
+Width: 600
+Flags: MW
+HStem: 210 80<58 542 58 542>
+VStem: 58 484<210 290 210 290>
+LayerCount: 2
+Fore
+SplineSet
+58 210 m 1
+ 58 290 l 1
+ 542 290 l 1
+ 542 210 l 1
+ 58 210 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,23 @@
+StartChar: quotedbl
+Encoding: 34 34 2
+Width: 402
+Flags: MW
+HStem: 722 20G<254 294 424 464>
+VStem: 212 107 382 107
+LayerCount: 2
+Fore
+SplineSet
+484 690 m 2
+ 404 469 l 1
+ 376 469 l 1
+ 388 690 l 2
+ 391 725 405 742 443 742 c 0
+ 485 742 497 725 484 690 c 2
+314 690 m 2
+ 234 469 l 1
+ 206 469 l 1
+ 218 690 l 2
+ 221 725 235 742 273 742 c 0
+ 315 742 327 725 314 690 c 2
+EndSplineSet
+EndChar

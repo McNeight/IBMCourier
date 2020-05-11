@@ -1,0 +1,19 @@
+StartChar: quoteleft
+Encoding: 96 8216 64
+Width: 252
+Flags: MW
+HStem: 672 20G<212 212>
+VStem: 40 116<472 594.5>
+LayerCount: 2
+Fore
+SplineSet
+184 719 m 1
+ 212 692 l 1
+ 179 656 156 617 156 572 c 0
+ 156 528 193 509 193 466 c 0
+ 193 431 170 399 125 399 c 0
+ 78 398 40 439 40 505 c 0
+ 40 590 122 669 184 719 c 1
+EndSplineSet
+Kerns2: 33 -122 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 35 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 35 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 35 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 56 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 35 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 65 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 67 -70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 -50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 64 -30 "'kern' Horizontal Kerning lookup 0 subtable" 82 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -26 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

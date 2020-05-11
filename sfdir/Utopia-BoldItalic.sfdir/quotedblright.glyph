@@ -1,0 +1,26 @@
+StartChar: quotedblright
+Encoding: 186 8221 118
+Width: 455
+Flags: MW
+HStem: 687 20G<234 255 443 464>
+VStem: 179 150<614.5 647 574 653.5> 388 150<614.5 647 574 653.5>
+LayerCount: 2
+Fore
+SplineSet
+255 707 m 0
+ 305 708 329 669 329 625 c 0
+ 329 523 227 440 153 387 c 1
+ 130 414 l 1
+ 165 449 202 494 202 542 c 0
+ 202 579 179 597 179 632 c 0
+ 179 675 213 707 255 707 c 0
+464 707 m 0
+ 514 708 538 669 538 625 c 0
+ 538 523 436 440 362 387 c 1
+ 339 414 l 1
+ 374 449 411 494 411 542 c 0
+ 411 579 388 597 388 632 c 0
+ 388 675 422 707 464 707 c 0
+EndSplineSet
+Kerns2: 12 -200 "'kern' Horizontal Kerning lookup 0 subtable" 14 -200 "'kern' Horizontal Kerning lookup 0 subtable" 0 -50 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

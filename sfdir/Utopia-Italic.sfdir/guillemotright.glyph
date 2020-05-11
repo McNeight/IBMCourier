@@ -1,0 +1,29 @@
+StartChar: guillemotright
+Encoding: 187 187 119
+Width: 462
+Flags: W
+HStem: 41 394<84 138 138 279>
+VStem: 64 391 170 90 365 90
+LayerCount: 2
+Fore
+SplineSet
+84 41 m 1xc0
+ 64 58 l 1
+ 166 221 l 2
+ 173 232 174 243 170 255 c 2
+ 115 420 l 1
+ 138 435 l 1
+ 257 253 l 2
+ 263 244 261 230 253 222 c 2xb0
+ 84 41 l 1xc0
+279 41 m 1
+ 259 58 l 1
+ 361 221 l 2
+ 368 232 369 243 365 255 c 2
+ 310 420 l 1
+ 333 435 l 1
+ 452 253 l 2
+ 458 244 456 230 448 222 c 2
+ 279 41 l 1
+EndSplineSet
+EndChar
