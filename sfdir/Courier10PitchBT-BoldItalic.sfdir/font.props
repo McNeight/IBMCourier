@@ -1,0 +1,52 @@
+SplineFontDB: 3.2
+FontName: Courier10PitchBT-BoldItalic
+FullName: Courier 10 Pitch Bold Italic
+FamilyName: Courier 10 Pitch
+Weight: Bold
+Copyright: Copyright 1990 as an unpublished work by Bitstream Inc.  All rights reserved.  Confidential.
+Version: 2.0-1.0
+ItalicAngle: 12
+UnderlinePosition: -97
+UnderlineWidth: 93
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+UniqueID: 15530611
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1589168907
+ModificationTime: 1589168907
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: AdobeStandard
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 32 8
+BeginPrivate: 5
+BlueValues 40 [-17 0 451 465 579 595 616 634 639 639 ]
+OtherBlues 12 [-195 -194 ]
+StdHW 4 [99]
+StdVW 5 [125]
+ForceBold 5 false
+EndPrivate
+EndSplineFont

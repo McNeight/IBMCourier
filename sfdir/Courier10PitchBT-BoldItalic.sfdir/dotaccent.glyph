@@ -1,0 +1,16 @@
+StartChar: dotaccent
+Encoding: 199 729 129
+Width: 602
+Flags: MW
+HStem: 523 132<314.5 350 314.5 350.5>
+VStem: 266 132<571.5 607.5>
+LayerCount: 2
+Fore
+SplineSet
+266 590 m 0
+ 266 625 297 655 332 655 c 0
+ 368 655 398 626 398 590 c 0
+ 398 552 369 523 332 523 c 0
+ 295 523 266 553 266 590 c 0
+EndSplineSet
+EndChar
