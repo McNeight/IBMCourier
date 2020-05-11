@@ -1,0 +1,15 @@
+[submodule "xorg/font/adobe-utopia-type1"]
+	path = xorg/font/adobe-utopia-type1
+	url = https://gitlab.freedesktop.org/xorg/font/adobe-utopia-type1
+[submodule "xorg/font/bh-ttf"]
+	path = xorg/font/bh-ttf
+	url = https://gitlab.freedesktop.org/xorg/font/bh-ttf
+[submodule "xorg/font/bh-type1"]
+	path = xorg/font/bh-type1
+	url = https://gitlab.freedesktop.org/xorg/font/bh-type1
+[submodule "xorg/font/bitstream-type1"]
+	path = xorg/font/bitstream-type1
+	url = https://gitlab.freedesktop.org/xorg/font/bitstream-type1
+[submodule "xorg/font/ibm-type1"]
+	path = xorg/font/ibm-type1
+	url = https://gitlab.freedesktop.org/xorg/font/ibm-type1
