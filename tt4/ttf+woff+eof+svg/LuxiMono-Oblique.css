@@ -1,0 +1,12 @@
+/* Webfont: LuxiMono-Oblique */@font-face {
+    font-family: 'LuxiMono';
+    src: url('LuxiMono-Oblique.eot'); /* IE9 Compat Modes */
+    src: url('LuxiMono-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('LuxiMono-Oblique.woff') format('woff'), /* Modern Browsers */
+         url('LuxiMono-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('LuxiMono-Oblique.svg#LuxiMono-Oblique') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

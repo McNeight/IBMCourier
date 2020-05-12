@@ -1,0 +1,12 @@
+/* Webfont: Courier10PitchBT-BoldItalic */@font-face {
+    font-family: 'Courier10Pitch';
+    src: url('Courier10PitchBT-BoldItalic.eot'); /* IE9 Compat Modes */
+    src: url('Courier10PitchBT-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Courier10PitchBT-BoldItalic.woff') format('woff'), /* Modern Browsers */
+         url('Courier10PitchBT-BoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Courier10PitchBT-BoldItalic.svg#Courier10PitchBT-BoldItalic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

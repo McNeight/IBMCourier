@@ -1,0 +1,12 @@
+/* Webfont: Utopia-Regular */@font-face {
+    font-family: 'Utopia';
+    src: url('Utopia-Regular.eot'); /* IE9 Compat Modes */
+    src: url('Utopia-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Utopia-Regular.woff') format('woff'), /* Modern Browsers */
+         url('Utopia-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Utopia-Regular.svg#Utopia-Regular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

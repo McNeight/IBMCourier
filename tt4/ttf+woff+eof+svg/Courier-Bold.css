@@ -1,0 +1,12 @@
+/* Webfont: Courier-Bold */@font-face {
+    font-family: 'Courier';
+    src: url('Courier-Bold.eot'); /* IE9 Compat Modes */
+    src: url('Courier-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Courier-Bold.woff') format('woff'), /* Modern Browsers */
+         url('Courier-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Courier-Bold.svg#Courier-Bold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

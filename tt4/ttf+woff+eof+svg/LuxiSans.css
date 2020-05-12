@@ -1,0 +1,12 @@
+/* Webfont: LuxiSans */@font-face {
+    font-family: 'LuxiSans';
+    src: url('LuxiSans.eot'); /* IE9 Compat Modes */
+    src: url('LuxiSans.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('LuxiSans.woff') format('woff'), /* Modern Browsers */
+         url('LuxiSans.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('LuxiSans.svg#LuxiSans') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

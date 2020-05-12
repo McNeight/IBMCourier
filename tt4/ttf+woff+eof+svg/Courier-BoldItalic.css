@@ -1,0 +1,12 @@
+/* Webfont: Courier-BoldItalic */@font-face {
+    font-family: 'Courier';
+    src: url('Courier-BoldItalic.eot'); /* IE9 Compat Modes */
+    src: url('Courier-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Courier-BoldItalic.woff') format('woff'), /* Modern Browsers */
+         url('Courier-BoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Courier-BoldItalic.svg#Courier-BoldItalic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

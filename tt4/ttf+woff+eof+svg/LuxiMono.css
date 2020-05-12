@@ -1,0 +1,12 @@
+/* Webfont: LuxiMono */@font-face {
+    font-family: 'LuxiMono';
+    src: url('LuxiMono.eot'); /* IE9 Compat Modes */
+    src: url('LuxiMono.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('LuxiMono.woff') format('woff'), /* Modern Browsers */
+         url('LuxiMono.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('LuxiMono.svg#LuxiMono') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

@@ -1,0 +1,12 @@
+/* Webfont: CharterBT-Roman */@font-face {
+    font-family: 'BitstreamCharter';
+    src: url('CharterBT-Roman.eot'); /* IE9 Compat Modes */
+    src: url('CharterBT-Roman.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('CharterBT-Roman.woff') format('woff'), /* Modern Browsers */
+         url('CharterBT-Roman.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('CharterBT-Roman.svg#CharterBT-Roman') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

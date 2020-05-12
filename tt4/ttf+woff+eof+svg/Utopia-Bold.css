@@ -1,0 +1,12 @@
+/* Webfont: Utopia-Bold */@font-face {
+    font-family: 'Utopia';
+    src: url('Utopia-Bold.eot'); /* IE9 Compat Modes */
+    src: url('Utopia-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Utopia-Bold.woff') format('woff'), /* Modern Browsers */
+         url('Utopia-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Utopia-Bold.svg#Utopia-Bold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

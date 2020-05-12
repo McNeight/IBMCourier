@@ -1,0 +1,12 @@
+/* Webfont: LuxiSans-Oblique */@font-face {
+    font-family: 'LuxiSans';
+    src: url('LuxiSans-Oblique.eot'); /* IE9 Compat Modes */
+    src: url('LuxiSans-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('LuxiSans-Oblique.woff') format('woff'), /* Modern Browsers */
+         url('LuxiSans-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('LuxiSans-Oblique.svg#LuxiSans-Oblique') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

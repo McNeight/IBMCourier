@@ -1,0 +1,12 @@
+/* Webfont: LuxiSerif-Bold */@font-face {
+    font-family: 'LuxiSerif';
+    src: url('LuxiSerif-Bold.eot'); /* IE9 Compat Modes */
+    src: url('LuxiSerif-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('LuxiSerif-Bold.woff') format('woff'), /* Modern Browsers */
+         url('LuxiSerif-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('LuxiSerif-Bold.svg#LuxiSerif-Bold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
